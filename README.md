@@ -1,6 +1,6 @@
 # ECODRAIN ILAP Project
 
-I built this ESP32-based bioswale monitoring and water-diversion system.
+We built this ESP32-based bioswale monitoring and water-diversion system.
 
 ## Features
 
